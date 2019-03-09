@@ -1,6 +1,6 @@
 # Code source
 
-[Suite à plusieurs problématiques rencontrées ](https://projet-theatre.gitbook.io/pupitre/~/edit/drafts/-LYJXe9jh4gCNtIX17MU/documentation-techniques/probleme-s-rencontre-s)lors du projet, nous avons abandonné le développement du projet à l'aide de l'environnement Arduino au profit du Raspberry PI. **Ainsi, le code-source Arduino est malheureusement manquant.** 
+[Suite à plusieurs problématiques rencontrées ](probleme-s-rencontre-s.md)lors du projet, nous avons abandonné le développement du projet à l'aide de l'environnement Arduino au profit du Raspberry PI. **Ainsi, le code-source Arduino est malheureusement manquant.** 
 
 ## Avec le Raspberry PI
 
