@@ -6,9 +6,7 @@ En contre partie, cette page propose pour les utilisateurs avancées l'ensemble 
 
 ## Dépendances
 
-### pypitre
-
-#### Depuis pypi.org
+### Depuis pypi.org
 
 * pyserial 
 * RPi.GPIO 
@@ -18,7 +16,7 @@ En contre partie, cette page propose pour les utilisateurs avancées l'ensemble 
 sudo pip3 install pyserial RPi.GPIO omxplayer-wrapper
 ```
 
-#### Sur le Raspberry PI cible
+### Sur le Raspberry PI cible
 
 * Python &gt;= 3.5
 * omxplayer
