@@ -4,7 +4,7 @@ description: >-
   jusqu'à la fin du projet.
 ---
 
-# Problème\(s\) rencontré\(s\)
+# Problèmes rencontrés
 
 ## La fonction random\(\) de la librairie standard d'Arduino
 
