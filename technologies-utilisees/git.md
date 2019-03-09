@@ -13,6 +13,7 @@ La commande `git clone`permet de récupérer l’entièreté du projet depuis la
 ### "git clone" par l'exemple
 
 ![](../.gitbook/assets/animation%20%283%29.gif)
+**NOTE:** Les animations gifs ne fonctionnent malheureusement pas sur la version PDF et docx.
 
 ###   
 
