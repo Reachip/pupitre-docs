@@ -1,4 +1,4 @@
-# Table of contents
+# Table des matières
 
 * [Préambule](README.md)
 * [Avant propos](avant-propos.md)

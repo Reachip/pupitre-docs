@@ -10,5 +10,5 @@ Python est un langage interprété, une fois l'algorithme écrit en Python, il f
 
 ## PIP et PyPi
 
-PIP est le gestionnaire de paquets officiel de Python. Ce dernier récupère les paquets depuis PyPi, l'index officiel des paquets pour Python. Il a été utilisé afin de réaliser ce projet, les instructions afin de l'installer sont [disponibles ici](https://rached.gitbook.io/pupitre/technologies-utilisees/raspberry-pi#installation-des-dependances-necessaires-a-lexecution-du-projet). 
+PIP est le gestionnaire de paquets officiel de Python. Ce dernier récupère les paquets depuis PyPi, l'index officiel des paquets pour Python. Il a été utilisé afin de réaliser ce projet, les instructions afin de l'installer sont [disponibles ici](systeme-dexploitation-unix/README.md). 
 

@@ -39,7 +39,7 @@ Utilisez le fichier `config.json` afin d'indiquer au programme les trois PIN GPI
 
 ## Mise en place d'un deamon 
 
-La mise en place de deamon est [disponible ici](https://rached.gitbook.io/pupitre/technologies-utilisees/systeme-dexploitation-unix/systemd).  
+La mise en place de deamon est [disponible ici](technologies-utilisees/systeme-dexploitation-unix/systemd.md).  
 
 
 
