@@ -4,9 +4,7 @@
 
 ## Avec le Raspberry PI
 
-Le code source du projet pupitre implémenté en langage Python est disponible à cette adresse : 
-
-{% embed url="https://github.com/projet-theatre/pupitre" %}
+Le code source du projet pupitre implémenté en langage Python est disponible à cette adresse : https://github.com/projet-theatre/pupitre
 
 ## Avec l'environnement Arduino
 
