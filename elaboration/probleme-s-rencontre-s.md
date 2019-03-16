@@ -39,12 +39,3 @@ Voici la problématique qui a sans doute l'élément le plus retardant. En effet
 Il a donc fallu investiguer pendant un long moment pour pouvoir trouver une technologie adéquate, qu'elle soit d'un point de vue processus ou qu'il s'agisse d'un module/package Python.
 
 Par conséquent, nous avons choisi un wrapper du programme omxplayer disponible dans les dépôts de PyPi \(support officiel pour les librairies et packages Python\). Ce dernier répond à toutes les problématiques énoncées ci-dessus tout en restant élégant du point de vue de son implémentation.
-
-## L'incident "sur-voltage" avec le Raspberry PI 
-
-Malgré le fait que la plupart des problématiques étaient dites "implementatif" ou logique d'un point de vue algorithmique, il s'est avéré que nous avons rencontré un problème d’inattention lors de la mise en place du circuit électrique. 
-
-En effet nous avions alimenté le Raspberry PI avec un potentiel de 16 Volt au lieu de 5 Volt. 
-
-Le problème a été résolu en jetant le défin raspberry PI afin de le remplacer.
-

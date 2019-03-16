@@ -4,7 +4,6 @@
 * Réaliser les différents digrammes.
 * Organiser l'équipe vers les différents sujets transverses. 
 * Construire le pupitre.
-* Disposer les led's sur le pupitre.
-* Écrire le programme charger d'allumer les led's aléatoirement et de jouer la musique de fond.
-* Souder le montage de la bread-bord
-
+* Disposer les lumières sur le pupitre.
+* Écrire le programme charger d'allumer les lumières aléatoirement et de jouer la musique de fond en parallèle graçe à l'envoi d'informations par liaison bluetooth.
+* Souder le montage.
