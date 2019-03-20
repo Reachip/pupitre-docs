@@ -6,6 +6,24 @@
 
 Le code source du projet pupitre implémenté en langage Python est disponible à cette adresse : https://github.com/projet-theatre/pupitre
 
+**A ne pas oublier :** L'arboresence suivante est proposé afin de regrouper tous les fichiers nécessaires au projet 
+
+```
+pupitre
+├── LICENSE
+├── Makefile
+├── README.md
+├── __init__.py
+├── __main__.py
+├── config.json
+└── core
+    ├── __init__.py
+    ├── event.py
+    └── light.py
+```
+
+Le fichier Makefile est expliqué plus loin sur ce gitbook. Il n'est pas obligatoire mais il permet de gagner en productivité.
+
 ```js
 // Fichier config.json 
 // Il permet de livrer un programme générique,
@@ -298,4 +316,6 @@ void loop() {
   digitalWrite(LED_PIN, state); 
 }
 ```
+
+
 

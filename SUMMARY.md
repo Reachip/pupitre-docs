@@ -7,8 +7,8 @@
 
 ## Diagrammes et chaînes
 
-* [Diagramme d'exigence](diagrammes-et-chaines/diagramme-dexigence.md)
 * [Chaîne d'information et d’énergie](diagrammes-et-chaines/chaine-dinformation-et-denergie.md)
+* [Diagramme d'exigence](diagrammes-et-chaines/diagramme-dexigence.md)
 * [Diagramme de contexte](diagrammes-et-chaines/diagramme-de-contexte.md)
 * [Diagramme de cas d'utilisation](diagrammes-et-chaines/diagramme-de-cas-dutilisation.md)
 

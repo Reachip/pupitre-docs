@@ -1,5 +1,7 @@
 # Installer l'ensemble du projet sur un Raspberry PI
 
+**NOTE :** Si les instructions ci-dessous vous posent problème, vous pouvez passer cette page et mettre en place pas à pas le projet.
+
 Ce gitbook explique pas à pas via les présentations des différentes technologies et la présentation des étapes de l'élaboration du projet comment mettre en place le projet.
 
 En contre partie, cette page propose pour les utilisateurs avancées l'ensemble des commandes et configuration à faire afin d'implémenter ce projet.
@@ -38,8 +40,3 @@ Utilisez le fichier `config.json` afin d'indiquer au programme les trois PIN GPI
 ## Mise en place d'un deamon 
 
 La mise en place de deamon est [disponible ici](technologies-utilisees/systeme-dexploitation-unix/systemd.md).  
-
-
-
-
-
