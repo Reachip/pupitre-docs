@@ -39,3 +39,5 @@ Voici la problématique qui a sans doute l'élément le plus retardant. En effet
 Il a donc fallu investiguer pendant un long moment pour pouvoir trouver une technologie adéquate, qu'elle soit d'un point de vue processus ou qu'il s'agisse d'un module/package Python.
 
 Par conséquent, nous avons choisi un wrapper du programme omxplayer disponible dans les dépôts de PyPi \(support officiel pour les librairies et packages Python\). Ce dernier répond à toutes les problématiques énoncées ci-dessus tout en restant élégant du point de vue de son implémentation.
+
+L'ensemble de ses problèmes nous a fait prendre conscience que l'Arduino est selon nous un choix idéal pour réaliser ce genre de projet dit "embarqué". En effet le manque d'érgonomie se fait sentir avec un Raspberry PI : Il n'y a aucun moyen de téléverser de pair à pair en liaison physique les différents programmes et le lancement d'un service au démarrage s'avère lent.

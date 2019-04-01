@@ -14,6 +14,10 @@ Ce module Bluetooth permet d'ajouter une connexion série sans fil Bluetooth sur
 | :--- | :--- | :--- | :--- |
 | 3,5 à 8 Volt | Version 2.0 | 40 x 20 x 13 mm | [http://image.dfrobot.com/image/data/TEL0026/TEL0026\_Datasheet.pdf](http://image.dfrobot.com/image/data/TEL0026/TEL0026_Datasheet.pdf) |
 
+### Emettre des informations au Raspberry PI
+
+**IMPORTANT :** La broche TX du module doit être branché à la broche RX du Raspberry PI (PIN numéro 15 du Raspberry PI d'après la norme BCM) et la broche RX du module doit être branché à la broche TX du Raspberry PI (PIN numéro 14 du Raspberry PI d'après la norme BCM).
+
 ## Le relais Hillrong 12 V 
 
 ![](../.gitbook/assets/71lhe4a7hil._sl1001_.jpg)
