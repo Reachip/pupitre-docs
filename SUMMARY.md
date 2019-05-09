@@ -3,12 +3,11 @@
 * [Préambule](README.md)
 * [Avant propos](avant-propos.md)
 * [Installer l'ensemble du projet sur un Raspberry PI](recuperer-lentierete-du-code-source.md)
-* [Conclusion](conclusion.md)
 
 ## Diagrammes et chaînes
 
 * [Chaîne d'information et d’énergie](diagrammes-et-chaines/chaine-dinformation-et-denergie.md)
-* [Diagramme d'exigence](diagrammes-et-chaines/diagramme-dexigence.md)
+* [Diagramme des exigences](diagrammes-et-chaines/diagramme-des-exigences.md)
 * [Diagramme de contexte](diagrammes-et-chaines/diagramme-de-contexte.md)
 * [Diagramme de cas d'utilisation](diagrammes-et-chaines/diagramme-de-cas-dutilisation.md)
 
@@ -35,3 +34,5 @@
 
 * [Fiche de validation](documents-administratifs/fiche-de-validation.md)
 
+## Conclusion 
+* [Conclusion](conclusion.md)

@@ -1,0 +1,23 @@
+{
+  "name": "pupitre-docs",
+  "version": "1.0.0",
+  "description": "Documenation du pupitre issu du projet thêatre ",
+  "main": "book.json",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "gen": "./node_modules/.bin/gitbook build .; gitbook pdf"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/projet-theatre/pupitre-docs.git"
+  },
+  "author": "Rached MEJRI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/projet-theatre/pupitre-docs/issues"
+  },
+  "homepage": "https://github.com/projet-theatre/pupitre-docs#readme"
+}
